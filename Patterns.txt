@@ -1,5 +1,5 @@
-AND:
-If we take two interger as input a and b.If b is subset of a, then a&b=b;
+#AND:
+*If we take two interger as input a and b.If b is subset of a, then a&b=b;
 for example: 
 a=13
 b=9
