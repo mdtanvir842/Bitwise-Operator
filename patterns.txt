@@ -1,0 +1,33 @@
+#AND:
+*If we take two interger as input a and b.If b is subset of a, then a&b=b;
+for example: 
+a=13
+b=9
+    8 4 2 1
+13: 1 1 0 1
+9:  1 0 0 1
+--------------
+9:  1 0 0 1
+
+for AND operation:
+a | b | a&b |
+-------------
+0 | 0  | 0 |
+0 | 1  | 0 |
+1 | 0  | 0 |
+1 | 1  | 1 |
+
+#XOR:
+
+* If different then 1 else 0;
+* If the total number of 1 is odd then the result is 1 and if even then 0.
+for example:
+0^0^0^1^1^1^1^1=1
+0^0^0^1^1^1^1=0
+*The number of zero doesn't matter.
+
+*For a and b,If  a and b both are equal then a^b=0;
+*For a,b and c.If a,b and c all are equal then a^b^c=c
+*0^a=a;
+*if a and b both are same and c is different then a^b^c=c;
+
