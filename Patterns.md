@@ -1,4 +1,4 @@
-#AND:
+AND:
 *If we take two interger as input a and b.If b is subset of a, then a&b=b;
 for example: 
 a=13
